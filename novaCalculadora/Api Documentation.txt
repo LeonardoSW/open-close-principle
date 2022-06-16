@@ -1,0 +1,28 @@
+- - - Doc Routes API - - -
+______________________________________________________________________________________________________
+
+• Exemple maskered: 
+
+http://localhost:8080/api/calculo/{Type Operation}/{First Number To Calc}/{Second Number To Calc}
+
+______________________________________________________________________________________________________
+
+• Values to enter in parameter {Type Operation}: "sum", "sub", "mult", "div"
+
+______________________________________________________________________________________________________
+
+• Exemples to types of calcs:
+
+To Sum exemple:
+http://localhost:8080/api/calculo/sum/39/5
+
+To Sub exemple: 
+http://localhost:8080/api/calculo/sub/99/49
+
+To Multiplication exemple:
+http://localhost:8080/api/calculo/mult/10.8/153.2
+
+To Division exemple:
+http://localhost:8080/api/calculo/div/10/2
+______________________________________________________________________________________________________
+
